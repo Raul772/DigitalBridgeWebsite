@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+
+.font-lexend{
+    font-family: 'Lexend', sans-serif;
+}
+
+
+
+.DigitalBridge-logo{
+    width: 30px;
+}
+
+
+.navbar-gradient{
+    background: linear-gradient(to bottom, #000, #0000);
+}
+.nav-link, .active, .nav-link:hover{
+    color: black !important;
+}
+.navbar-brand h1, .navbar-brand .h4{
+    margin: 0px;
+}
+.card-servico{
+    border: 2px solid #6c63ff;
+    border-radius: 10px;
+    min-height: 100px;
+}
